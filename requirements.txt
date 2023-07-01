@@ -5,4 +5,4 @@ syllapy
 nltk
 pronouncing
 cmudict
-poetrytools @ git+https://github.com/hyperreality/Poetry-Tools.git
+poetrytools @ git+https://github.com/anujyadav140/Poetry-Tools.git
