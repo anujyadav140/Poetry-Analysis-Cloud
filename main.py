@@ -10,6 +10,7 @@ import poetrytools
 
 app = Flask(__name__)
 CORS(app)
+nltk.download('cmudict')
 d = cmudict.dict()    
 def syllable(word):
     try:
