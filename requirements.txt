@@ -4,3 +4,4 @@ flask_cors
 syllapy
 nltk
 pronouncing
+poetrytools
