@@ -4,4 +4,5 @@ flask_cors
 syllapy
 nltk
 pronouncing
+cmudict
 poetrytools @ git+https://github.com/hyperreality/Poetry-Tools.git
